@@ -85,7 +85,7 @@ needs as soon as possible.
 <!-- CONTACT -->
 ## Contact
 
->CODE URV president: Arnau Fabregas - [arnau.fabregas@estudiants.urv.cat](arnau.fabregas@urv.cat) 📫
+>CODE URV vicepresident: Arnau Fabregas - [arnau.fabregas@estudiants.urv.cat](arnau.fabregas@estudiants.urv.cat) 📫
 
 You can also reach us on LinkedIn [@codeurv](https://es.linkedin.com/in/codeurv).
 

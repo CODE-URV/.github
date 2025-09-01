@@ -84,12 +84,12 @@ needs as soon as possible.
 
 <!-- CONTACT -->
 ## Contact
-
+>CODE URV president: Uri Algar - [oriolav14@gmail.com](oriolav14@gmail.com) 📫
 >CODE URV vicepresident: Arnau Fabregas - [arnau.fabregas@estudiants.urv.cat](arnau.fabregas@estudiants.urv.cat) 📫
 
 You can also reach us on LinkedIn [@codeurv](https://es.linkedin.com/in/codeurv).
 
-You can get more information of our work and activities on our official web page https://CODE-URV.github.io/.
+You can get more information of our work and activities on our official web page [code-urv-github.io](https://CODE-URV.github.io/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
